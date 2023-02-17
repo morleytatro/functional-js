@@ -1,0 +1,10 @@
+{
+  "name": "functional-javascript",
+  "author": "Morley Tatro",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.28.5"
+  }
+}
